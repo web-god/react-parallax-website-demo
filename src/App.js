@@ -2,9 +2,9 @@ import "./App.css";
 import { Parallax } from "react-parallax";
 
 const image1 = "img/img1.jpg";
-const image2 = "img/img4.jpg";
-const image3 = "img/img8.jpg";
-const image4 = "img/img42.jpg";
+const image2 = "img/img2.jpg";
+const image3 = "img/img3.jpg";
+const image4 = "img/img4.jpg";
 
 const inlineStyle = {
   background: "#fff",
